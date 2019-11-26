@@ -1,0 +1,11 @@
+C:\Users\jia\Source\Repos\picture\bin\Debug\picture.exe.config
+C:\Users\jia\Source\Repos\picture\bin\Debug\picture.exe
+C:\Users\jia\Source\Repos\picture\bin\Debug\picture.pdb
+C:\Users\jia\Source\Repos\picture\obj\Debug\picture.csprojAssemblyReference.cache
+C:\Users\jia\Source\Repos\picture\obj\Debug\picture.Properties.Resources.resources
+C:\Users\jia\Source\Repos\picture\obj\Debug\picture.csproj.GenerateResource.cache
+C:\Users\jia\Source\Repos\picture\obj\Debug\picture.csproj.CoreCompileInputs.cache
+C:\Users\jia\Source\Repos\picture\obj\Debug\picture.exe
+C:\Users\jia\Source\Repos\picture\obj\Debug\picture.pdb
+C:\Users\jia\Source\Repos\picture\obj\Debug\picture.Form1.resources
+C:\Users\jia\Source\Repos\picture\obj\Debug\picture.Form2.resources
